@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/carolinababydaddy/static/css/main.c038c384.css",
+    "main.js": "/carolinababydaddy/static/js/main.d57bf9da.js",
+    "static/js/453.ad6eb26e.chunk.js": "/carolinababydaddy/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/carolinababydaddy/index.html",
+    "main.c038c384.css.map": "/carolinababydaddy/static/css/main.c038c384.css.map",
+    "main.d57bf9da.js.map": "/carolinababydaddy/static/js/main.d57bf9da.js.map",
+    "453.ad6eb26e.chunk.js.map": "/carolinababydaddy/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c038c384.css",
+    "static/js/main.d57bf9da.js"
+  ]
+}
